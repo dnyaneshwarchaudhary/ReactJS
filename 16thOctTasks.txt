@@ -1,0 +1,9 @@
+1) State Management
+2) Context
+3) API Calling
+4) Hook
+5) Rendering/Page Life  cycle
+6) Routing
+7) Navigation
+8) Event Handling
+ 
